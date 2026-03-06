@@ -36,9 +36,9 @@ This repository contains the production-ready distribution files, configured for
 - **Typography:** Inter & Google Fonts
 
 ## ⚖️ Legal & Licensing
-The music provided through the Application remains the intellectual property of **Aaditya Rushabh Shah**. Users are granted a non-exclusive, worldwide, royalty-free license to use the music as background audio in digital content, subject to the terms outlined in [terms.html](https://musiclib538-cmd.github.io/musiclib-sites/terms.html).
+The music provided through the Application remains the intellectual property of **Aaditya Rushabh Shah**. Users are granted a non-exclusive, worldwide, royalty-free license to use the music as background audio in digital content, subject to the terms outlined in [terms.html](https://musiclib-dev.github.io/).
 
 ---
-**Developed by [Aaditya Rushabh Shah](https://github.com/musiclib538-cmd)**  
+**Developed by [Aaditya Rushabh Shah](https://github.com/aadityarshah)**  
 *Note: This repository contains the website distribution files. The MusicLib Android Application source code is currently private.*
 
